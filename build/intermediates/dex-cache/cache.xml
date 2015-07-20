@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\classes-b407ef6a2d4cd795066d504b670af03b41d8229b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-5be65b974468a87cf9c70dfab50e0d0367215350.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myfirst\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.5\77bf7cacf9cefe19dc105e5425d2eb1bb5285881\android-async-http-1.4.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77bf7cacf9cefe19dc105e5425d2eb1bb5285881">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.5-27a41718a50c3eca031c56246b4b4c3b9dd4519e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myfirst\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-04abe9fbe7392dbb4ff2f9a09f29e6a291f9518a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myfirst\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.4.0\f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2\picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\picasso-2.4.0-7b861eae9adf9b572e9b48e765b75b9752fd2779.jar" />
+    </item>
+    <item
+        jar="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\Myfirst\AndroidStudioProjects\GridImageSearch2\app\build\intermediates\pre-dexed\debug\classes-9a172938a85993b2f815d3b8b73d5abd8d8fd3cd.jar" />
+    </item>
+
+</items>
